@@ -1,5 +1,14 @@
 <h1 align="center">WordPress Auto News Site Generator</h1>
 
+
+## Project Overview:
+This bot automates the creation, population, and management of news websites built on WordPress. Designed for affiliate marketers, SEOs, and digital publishers, it scrapes trending articles, rewrites them using AI, and posts them with proper SEO metadata. Whether you're flipping news sites or using them to generate ad revenue, this tool takes care of the heavy lifting.
+
+## Core Features:
+- **Hands-Free Content Flow:** From scraping to publishing, every step is automated — you just pick the niche.
+- **Built-in SEO Optimization:** Automatically inserts metadata, schema markup, and internal links to maximize search rankings.
+- **Smart Rewrite Engine:** Uses GPT-based AI to paraphrase scraped content, making it unique and reader-friendly.
+
 <div align="center">
   <img
     src="https://github.com/user-attachments/assets/d200549d-7613-446f-a43b-19a4117ca360"
@@ -62,14 +71,6 @@
 <span>
 
 <div align="left">
-
-## Project Overview:
-This bot automates the creation, population, and management of news websites built on WordPress. Designed for affiliate marketers, SEOs, and digital publishers, it scrapes trending articles, rewrites them using AI, and posts them with proper SEO metadata. Whether you're flipping news sites or using them to generate ad revenue, this tool takes care of the heavy lifting.
-
-## Core Strengths
-- **Hands-Free Content Flow:** From scraping to publishing, every step is automated — you just pick the niche.
-- **Built-in SEO Optimization:** Automatically inserts metadata, schema markup, and internal links to maximize search rankings.
-- **Smart Rewrite Engine:** Uses GPT-based AI to paraphrase scraped content, making it unique and reader-friendly.
 
 
 ## Features List:
